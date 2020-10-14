@@ -1,0 +1,106 @@
+
+
+html,body {
+	font-family:"Franklin Gothic Medium", serif;
+	font-family: "Franklin Gothic Medium", sans-serif;
+	font-family: "Franklin Gothic Medium", monospace;
+	font-size: 15px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	color: rgb(30, 30, 30);
+	text-align: justify;
+	text-decoration: none;
+	 height: 100%;
+    margin: 0;
+    padding: 0;
+	overflow-x: hidden
+
+}
+
+
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#title {
+	margin: 0 auto;
+	padding-top:200px;
+	padding-bottom:200px;
+	background-color:black;
+}
+
+
+
+.steps_div {
+	width:500px;
+	margin: 0 auto;
+	padding-bottom:0px;
+}
+
+p {
+	text-align: justify;
+	font-family:"Franklin Gothic Medium", serif;
+}
+
+.my_para {
+	width:500px;
+	margin:0 auto;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+
+.whole_steps {
+	margin-top:100px;
+	margin-bottom:100px;
+	padding-top:200px;
+	padding-bottom:200px;
+	background-color:black;
+
+
+}
+
+h1 {
+	font-family:"Times New Roman", sans-serif;
+	text-align: center;
+	color:white;
+	font-size:40px;
+}
+
+
+h2 {
+  	color: white;
+	font-size: 14px;
+	font-family:"Franklin Gothic Medium", serif;
+	text-align: center;
+
+}
+
+h3 {
+	color:white;
+	text-align:center;
+	font-family:"Franklin Gothic Medium", serif;
+}
+
+.article_images {
+	width:700px;
+	margin:0 auto;
+	text-align:center;
+	overflow-x: hidden;
+}
+
+.para_image {
+	background-color:white;
+	width:1200px;
+	margin:0 auto;
+	padding-bottom:500px;
+	background-repeat: no-repeat;
+	overflow-x: hidden;
+	background-position:center;
+
+}
+
